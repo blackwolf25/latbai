@@ -27,4 +27,7 @@
 		width: 100px;
 		height: 100px;
 	}
+	input{
+		padding: 10px 45px;
+	}
 }
